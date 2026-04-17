@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Data (Optional: ignore local state but keep sample JSONs if needed)
+# Depending on how you manage the mock data, you might want to ignore active logs
+audit_log.json
