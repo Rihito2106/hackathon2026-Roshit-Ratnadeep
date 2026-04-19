@@ -3,7 +3,11 @@
 
 An autonomous, fault-tolerant AI agent designed to ingest, classify, resolve, and audit customer support tickets concurrently. Built with deterministic guardrails and a custom reasoning loop to prevent hallucinations, infinite loops, and fragile behavior typical of LLM-based systems.
 
-![Demo Video](demo_video.mp4)
+
+
+https://github.com/user-attachments/assets/5c3ae457-8f03-469b-b014-94ef5afcefae
+
+
 
 ## 🧠 Problem Overview
 Modern support systems are overwhelmed with repetitive tickets that are still routed to humans. This agent solves that by acting as a generalist autonomous support system, capable of:
