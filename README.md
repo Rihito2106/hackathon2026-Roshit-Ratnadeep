@@ -25,6 +25,7 @@ Once Ollama is running in the background, you can execute the entire 20-ticket q
 Open your terminal in the root directory of the project and run:
 ```bash
 python main.py
+```
 
 *Note: The system will automatically ingest `data/tickets.json`, process the queue using 3 concurrent workers, and generate a final flight recorder in `logs/audit_log.json`.*
 
