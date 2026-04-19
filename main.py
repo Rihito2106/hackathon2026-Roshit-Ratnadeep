@@ -22,9 +22,8 @@ def main():
     # The Flight Recorder
     audit_log = []
     
-    # ⚡ BOUNDED CONCURRENCY (Ollama-Safe)
+    # BOUNDED CONCURRENCY (Ollama-Safe)
     # 3 workers means 3 tickets are processed simultaneously. 
-    # This proves concurrency to the judges without crashing your laptop!
     MAX_WORKERS = 3 
     print(f"⚡ Processing {len(tickets)} tickets with {MAX_WORKERS} concurrent workers...\n")
     

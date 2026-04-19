@@ -17,3 +17,4 @@ logs/
 # Data (Optional: ignore local state but keep sample JSONs if needed)
 # Depending on how you manage the mock data, you might want to ignore active logs
 audit_log.json
+.vscode/
