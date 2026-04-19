@@ -5,7 +5,9 @@ An autonomous, fault-tolerant AI agent designed to ingest, classify, resolve, an
 
 ## 🎥 Demo Video
 
-https://github.com/<your-username>/<repo-name>/assets/<video-id>
+<video src="demo_video.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 
 ## 🧠 Problem Overview
 Modern support systems are overwhelmed with repetitive tickets that are still routed to humans. This agent solves that by acting as a generalist autonomous support system, capable of:
